@@ -16,8 +16,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub KrishnaTeja Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/Krishna-coder1</url>
+      <name>GitHub Krishna-coder1 Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/Krishna-coder1/heap-minds-utils</url>
     </repository>
   </distributionManagement>
   <build>
@@ -44,11 +44,6 @@
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <version>1.18.28</version>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-web</artifactId>
-      <version>6.0.7</version>
     </dependency>
   </dependencies>
 </project>
